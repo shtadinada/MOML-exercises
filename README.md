@@ -7,3 +7,5 @@ Exercise 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 
 Exercise 2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shtadinada/MOML-exercises/blob/main/learn_circle.ipynb)
 
+Exercise 3 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shtadinada/MOML-exercises/blob/main/step_sizes.ipynb)
+
